@@ -1,6 +1,6 @@
 # rezepte_zoerix
 
-#POFFERTJES
+# POFFERTJES
 
 Was sind Poffertjes?
 Poffertjes sind eine niederländische Gebäckspezialität, die traditionell mit Butter und Puderzucker, in den Niederlanden oft auch mit Zuckerrübensirup, serviert werden. Die kleinen, münzgroßen Pfannküchlein sind relativ dick und deutlich süßer als klassische Pfannkuchen. Hierzulande kennt man Poffertjes von Jahr- und Weihnachtsmärkten.
