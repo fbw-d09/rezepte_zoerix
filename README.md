@@ -1,9 +1,11 @@
 # rezepte_zoerix
 
-#POFFERTJES
+# POFFERTJES
 
 Was sind Poffertjes?
 Poffertjes sind eine niederländische Gebäckspezialität, die traditionell mit Butter und Puderzucker, in den Niederlanden oft auch mit Zuckerrübensirup, serviert werden. Die kleinen, münzgroßen Pfannküchlein sind relativ dick und deutlich süßer als klassische Pfannkuchen. Hierzulande kennt man Poffertjes von Jahr- und Weihnachtsmärkten.
+
+![dies sind Poffertjes](poffertjes-F8000103%2Cid%3D891c1c30%2Cb%3Dlecker%2Cw%3D610%2Ccg%3Dc.jpg)
 
 
 #### Zutaten
@@ -24,12 +26,15 @@ Poffertjes sind eine niederländische Gebäckspezialität, die traditionell mit 
 2. Eiweiß steif schlagen und unterheben.
 3.  Poffertjes-Pfanne fetten und erhitzen. Teig mit einer Kelle oder einem Spritzbeutel in die Mulden geben und nach ca. 1 Min. wenden. Haben die Poffertjes eine gold-braune Farbe auf beien Seiten, können sie mit Butter und Puderzucker serviert werden. Dazu passen Eis, Kompott oder Vanillesauce.
 
-![dies sind Poffertjes](poffertjes-F8000103%2Cid%3D891c1c30%2Cb%3Dlecker%2Cw%3D610%2Ccg%3Dc.jpg)
 
+---
 
-
+---
 
 # NUDELAUFLAUF
+
+![cremigerNudelauflauf](cremiger-nudelauflauf-mit-tomaten-und-mozzarella.jpg)
+
 
 #### Zutaten
 
@@ -58,4 +63,3 @@ Poffertjes sind eine niederländische Gebäckspezialität, die traditionell mit 
 5. Wenn die Nudeln soweit sind, diese abgießen und in die Pfanne zur Sauce geben. Die Pfanne von der Hitze nehmen und die halbierten Kirschtomaten und die Hälfte der Mozzarellawürfel unterheben. Die Basilikumblätter in Streifen schneiden und ebenfalls unterheben.
 6. Alles zusammen in eine Auflaufform geben, mit dem restlichen Mozzarella bestreuen und ca. 20 Minuten auf der mittleren Schiene im heißen Backofen gratinieren.
 
-![cremigerNudelauflauf](cremiger-nudelauflauf-mit-tomaten-und-mozzarella.jpg)
